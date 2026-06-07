@@ -74,7 +74,7 @@ Si el profesor o evaluador desea encender el sistema en su propia máquina local
 
 **1. Descargar la carpeta del proyecto**
 ```bash
-git clone [https://github.com/Zantlu/PIA-PROYECTOS.git](https://github.com/Zantlu/PIA-PROYECTOS.git)
+git clone [https://github.com/LuisAngelManzano/PIA-PROYECTOS](https://github.com/LuisAngelManzano/PIA-PROYECTOS.git)
 cd PIA-PROYECTOS
 
 -python -m venv env
