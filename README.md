@@ -64,7 +64,7 @@ Si es la primera vez que se usa el sistema, este es el orden correcto para confi
 
 ## 📖 Documentación Visual
 Para conocer a detalle el flujo de la aplicación, las reglas de negocio y ver capturas de pantalla de las interfaces de usuario, puedes consultar el manual oficial del sistema:
-👉 **[Ver Manual de Usuario y Administrador](./docs/MANUAL_IMPRESION.pdf)**
+👉 **[Ver Manual de Usuario y Administrador](./docs/Manual_Sistema_Horas.pdf)**
 
 ---
 
